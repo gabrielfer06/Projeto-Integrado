@@ -14,4 +14,4 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### Aulas concluidos do curso
-4 aulas concluidas
+9 aulas concluidas
