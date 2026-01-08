@@ -19,3 +19,5 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 <img width="750" height="734" alt="image" src="https://github.com/user-attachments/assets/3db9eb79-b924-47a9-b67e-b20c079f521f" />
 
+### Já fiz o exame,estou a aguardar a nota 
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/cb170a00-a1fa-493c-ab1b-84c167ed1cd0" />
