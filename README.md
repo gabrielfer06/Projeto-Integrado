@@ -21,3 +21,7 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 ### Já fiz o exame,estou a aguardar a nota 
 <img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/cb170a00-a1fa-493c-ab1b-84c167ed1cd0" />
+
+## Certificado de conclusão do curso
+<img width="1919" height="723" alt="image" src="https://github.com/user-attachments/assets/15c8a094-ae7e-4222-b416-986bcbb9755f" />
+
